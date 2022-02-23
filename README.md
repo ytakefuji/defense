@@ -1,7 +1,7 @@
 # defense
 dataset is downloadable from:
 
-https://sipri.org/sites/default/files/SIPRI-Top-100-2002-2020.xlsx
+https://sipri.org/sites/default/files/SIPRI-Milex-data-1949-2020_0.xlsx
 
 <img src='https://github.com/ytakefuji/defense/blob/main/result.png' width=640 height=480>
 
