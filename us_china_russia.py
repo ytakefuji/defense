@@ -1,6 +1,11 @@
 import pandas as pd
 import matplotlib.pyplot as plt
-d=pd.read_excel('SIPRI-Milex-data-1949-2020_0.xlsx',engine='openpyxl',sheet_name='Constant (2019) USD')
+import openpyxl
+wb=openpyxl.load_workbook('SIPRI-Milex-data-1949-2020_0.xlsx')
+sheet=wb['Constant (2019) USD']
+sheet.delete_rows(sheet.min_row,5)
+wb.save('result.xlsx')
+d=pd.read_excel('result.xlsx',engine='openpyxl',sheet_name='Constant (2019) USD')
 usa=d.loc[d.Country=='USA']
 china=d.loc[d.Country=='China']
 russia=d.loc[d.Country=='Russia']
