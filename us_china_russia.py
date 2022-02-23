@@ -1,6 +1,6 @@
 import pandas as pd
 import matplotlib.pyplot as plt
-d=pd.read_excel('SIPRI-Milex-data-1949-2020_0.xlsx',engine='openpyxl',sheet_name='USD')
+d=pd.read_excel('SIPRI-Milex-data-1949-2020_0.xlsx',engine='openpyxl',sheet_name='Constant (2019) USD')
 usa=d.loc[d.Country=='USA']
 china=d.loc[d.Country=='China']
 russia=d.loc[d.Country=='Russia']
@@ -20,4 +20,5 @@ plt.plot(x,us,'k-',label="US")
 plt.plot(x,cn,'k:',label="China")
 plt.plot(x,ru,'k--',label="Russia")
 plt.legend()
+plt.savefig('result.png')
 plt.show()
