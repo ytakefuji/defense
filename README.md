@@ -9,7 +9,8 @@ The SIPRI dataset is downloadable from:
 
 https://sipri.org/sites/default/files/SIPRI-Milex-data-1949-2020_0.xlsx
 
-The vertical axis shows the US dollars in millions.
+The number of the vertical axis indicates the US dollars in millions.
+
 <img src='https://github.com/ytakefuji/defense/raw/main/result.png' width=640 height=480>
 
 # How to install milspend
