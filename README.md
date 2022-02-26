@@ -24,7 +24,7 @@ $ milspend USA China Russia Japan
 
 $ milspend Japan 'Korea, South'
 
-<img src='https://github.com/ytakefuji/defense/raw/main/jpkr.png' height=480 width=640>
+<img src='https://github.com/ytakefuji/defense/raw/main/koreajapan.png' height=480 width=640>
 
 
 # To run us_china_russia.py
