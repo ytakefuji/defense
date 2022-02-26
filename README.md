@@ -27,8 +27,3 @@ $ milspend Japan 'Korea, South'
 
 <img src='https://github.com/ytakefuji/defense/raw/main/koreajapan.png' height=480 width=640>
 
-
-# To run us_china_russia.py
-SIPRI-Milex-data-1949-2020_0.xlsx file needs to be placed in the same directory as the following file us_china_russia.py.
-
-$ python us_china_russia.py
