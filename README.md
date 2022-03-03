@@ -13,12 +13,16 @@ The number of the vertical axis indicates the US dollars in millions.
 
 <img src='https://github.com/ytakefuji/defense/raw/main/result.png' width=640 height=480>
 
-# How to install milspend
+# How to install milspend on Linux, MacOS, or WSL on Windows
 You may need matplotlib library.
 
 $ pip install matplotlib
 
 $ pip install milspend
+
+
+# How to install milspend on Windows 11 and 10
+$ pip install milspend --force-reinstall --no-cache-dir --no-binary :all:
 
 # How to run milspend
 Milspend program allows user to specify up to four countries to plot military spending of the specified countries.
