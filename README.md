@@ -1,5 +1,6 @@
 # defense
 This is under review.
+[![Open in Code Ocean](https://codeocean.com/codeocean-assets/badge/open-in-code-ocean.svg)](https://codeocean.com/capsule/a01e51d9-0f62-40c5-bc9e-b4c8b16b421e/tree)
 
 The goal of this project is to visualize military spending of countries.
 
