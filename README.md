@@ -3,6 +3,8 @@ This is under review.
 
 [![Open in Code Ocean](https://codeocean.com/codeocean-assets/badge/open-in-code-ocean.svg)](https://codeocean.com/capsule/a01e51d9-0f62-40c5-bc9e-b4c8b16b421e/tree)
 
+DOI: https://doi.org/10.24433/CO.7896039.v1
+
 The goal of this project is to visualize military spending of countries.
 
 Using a SIPRI dataset, milspend can visualize military spending of up to four countries.
