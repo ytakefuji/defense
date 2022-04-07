@@ -25,7 +25,7 @@ $ pip install matplotlib
 $ pip install milspend
 
 
-# How to install milspend on Windows 11 and 10
+# How to install milspend if you have a trouble.
 $ pip install milspend --force-reinstall --no-cache-dir --no-binary :all:
 
 # How to run milspend
